@@ -15,8 +15,5 @@ jobs:
       - name: Print name
         run: echo Hello, Aleksi Rendel!
 
-      - name: Exit
-        run: exit 1
-
       - name: Print node version
         run: npm --version
