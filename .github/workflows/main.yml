@@ -1,1 +1,5 @@
+name: Academy pipeline exercise
 
+on:
+  push:
+    branches: [ main ]
